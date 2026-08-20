@@ -11,6 +11,10 @@ The implementation has **not** started. The approved plan is a high-risk, read-o
 - Approved work plan: [`.omo/plans/itol-change-orchestration-discovery-pilot.md`](.omo/plans/itol-change-orchestration-discovery-pilot.md)
 - Supporting draft and decision record: [`.omo/drafts/itol-change-orchestration-discovery-pilot.md`](.omo/drafts/itol-change-orchestration-discovery-pilot.md)
 - Local Codex run-continuation records: [`.omo/run-continuation/`](.omo/run-continuation/)
+- Original project brief: [`docs/PROJECT-BRIEF.md`](docs/PROJECT-BRIEF.md)
+- Visible project conversation record: [`docs/CONVERSATION-RECORD-2026-08-19-20.md`](docs/CONVERSATION-RECORD-2026-08-19-20.md)
+
+> **Public-repository notice:** The project brief and conversation record are published here at the repository owner's explicit request and may contain internal ITOL architecture and operational-planning information.
 
 ## Continue on another machine
 
